@@ -9,3 +9,7 @@ The Rate of Reading tests used are included in the HighLowRoR.pdf. The first thr
 The Flicker.ino file is for the Arduio board to instruct it to flicker at 60hz, 120Hz, or 60kHz in a counterbalanced order. PuTTy was used while the Arduino board was running to verify what flicker condition was being presented in real-time.
 
 The demographic questionnaire, headache questionnaire, and Pattern Glare test documents are also included.
+
+
+_____
+Questions? Email shaigh at unr dot edu
