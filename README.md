@@ -2,7 +2,7 @@
 
 By Caitlin A Laycox, Lauren Thompson, Arnold J Wilkins & Sarah M Haigh
 
-Published in: Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins, & Sarah M Haigh (2024). Flicker slows reading speed: Effects on individuals with visual sensitivity. Perception, 53(8), 512-528. https://doi.org/10.1177/03010066241252066.
+Published in: Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins, & Sarah M Haigh (2024). Flicker slows reading speed: Effects on individuals with visual sensitivity. _Perception, 53_(8), 512-528. https://doi.org/10.1177/03010066241252066.
 
 The data, materials, and Arduino code used in this study are listed here.
 
