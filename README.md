@@ -2,6 +2,8 @@
 
 By Caitlin A Laycox, Lauren Thompson, Arnold J Wilkins & Sarah M Haigh
 
+Published in: Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins, & Sarah M Haigh (2024). Flicker slows reading speed: Effects on individuals with visual sensitivity. Perception, 53(8), 512-528. https://doi.org/10.1177/03010066241252066.
+
 The data, materials, and Arduino code used in this study are listed here.
 
 The Rate of Reading tests used are included in the HighLowRoR.pdf. The first three versions are the high autocorrelation tests (0.4323248, 0.43479156, and 0.43224097 respectively) and the last three versions are the low autocorrelation tests (0.19215968, 0.19309188, and 0.18961608 respectively). The order of presetnations was counterbalanced. The code used to analyze the autocorrelation is included as a MATLAB file.
@@ -14,3 +16,4 @@ Finally, the data for the two experiments are in FlickerData.xlsx. There were tw
 
 _____
 Questions? Email shaigh at unr dot edu
+For more information, see: https://sarahmhaigh.github.io/
